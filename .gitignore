@@ -1,0 +1,31 @@
+# Eclipse 
+.classpath 
+.project 
+.settings/
+out/
+
+### Vert.x ###
+.vertx/
+
+### IntelliJ ###
+.idea/
+
+### Gradle ###
+.gradle
+
+.class
+bin/
+# Maven 
+log/ 
+target/
+build/
+.recommenders/
+
+.metadata/
+*.dbdump
+*.bar
+*.orig
+Servers/
+RemoteSystemsTempFiles/
+test-integration-reports/
+
